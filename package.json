@@ -1,0 +1,29 @@
+{
+  "name": "27-restful-api-express-sequelize",
+  "version": "1.0.0",
+  "description": "> :memo: **Note:** Maaf mas sebentar masih ...on progress... 🚀",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirzabakti/27-RESTful-API-Express-Sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirzabakti/27-RESTful-API-Express-Sequelize/issues"
+  },
+  "homepage": "https://github.com/mirzabakti/27-RESTful-API-Express-Sequelize#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.21.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
